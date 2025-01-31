@@ -1,0 +1,15 @@
+Key Classes
+
+----------------------------------------------------------------------------
+| Name                      |                     Description              |
+|---------------------------|----------------------------------------------|
+| HomeController            | Show home page                               |
+| JobLocationController     | Managing job locations                       |
+| JobPostActivityController | Managing job posts and searching job posts   |
+| JobSeekerApplyController  | Applying for Jobs                            |
+| JobSeekerProfileController| Managing job seeker profile                  |
+| JobSeekerSaveController   | Managing jobs that job seeker has applied for|
+| RecruiterProfileController| Managing recruiter profile                   |
+| UsersController           | Login/Logout/Register                        |
+----------------------------------------------------------------------------
+
