@@ -1,0 +1,15 @@
+Database Entities
+
+-------------------------------------------------------------------------------------
+| Name                      |                     Description                       |
+|---------------------------|-------------------------------------------------------|
+| JobCompany                | A job company: name, logo, etc                        |
+| JobPostActivity           | A job post: title, desc, salary, etc                  |
+| JobSeekerApply            | Tracks the job seekers who have applied for the job   |
+| JobSeekerProfile          | Info about the seeker: name, city, state, etc         |
+| JobSeekerSave             | Tracks the jobs a job seeker has applied to           |
+| RecruiterProfile          | Info about the recruiter: name, city, state, etc      |
+| Skills                    | Info about a skill: name, level of exp                |
+| Users                     | Info about a user: email, password, etc               |
+| UsersType                 | Type/role of user: recruiter/Job Seeker               |   
+-------------------------------------------------------------------------------------
